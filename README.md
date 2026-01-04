@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- 顶部横幅 -->
+<p align="center">
+  <img src="img/github-header-banner.png" alt="Header" style="width:100%; max-width:1200px; height:auto;" />
+</p>
 
-<!--
-**HenTai-Miao/HenTai-Miao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 计数器 + 打字动画 -->
+<div align="center" style="margin-top:20px;">
 
-Here are some ideas to get you started:
+  <!-- 访问计数器 -->
+  <img src="https://count.getloli.com/@HenTai-Miao?name=HenTai-Miao&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visit Count" style="display:block; margin: 0 auto;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- 打字动画 -->
+  <a href="https://github.com/HenTai-Miao">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(%E0%B9%91%E2%80%A2%CC%80%E3%85%82%E2%80%A2%CC%81)%D9%88%E2%9C%A7+HenTai-Miao;Not+a+real+hentai%2C+just+a+code+maniac." alt="Typing SVG" style="display:block; margin:20px auto 0 auto;" />
+  </a>
+
+</div>
